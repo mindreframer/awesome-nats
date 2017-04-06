@@ -2,6 +2,10 @@
 
 
 
+### Setup
+  - [How To Install and Configure NATS on Ubuntu 16.04 - 2016](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-nats-on-ubuntu-16-04)
+
+
 ### Videos:
   - [Golang Phoenix Meetup - Handling Events With NATS - 2016/10](https://www.youtube.com/watch?v=fCp7DwGfmo4) GOOD!!!
   - [Microservices with Go Micro and NATS - 2016/06](https://www.youtube.com/watch?v=b_Ivq2GYlI4&t=117s) - [post](https://oren.github.io/blog/micro.html) - hands-on session with real examples.
