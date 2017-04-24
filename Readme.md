@@ -6,8 +6,20 @@
   - [How To Install and Configure NATS on Ubuntu 16.04 - 2016](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-nats-on-ubuntu-16-04)
 
 
+
+  - [Practical Golang: Getting Started With NATS and Related Patterns - 2016/06](https://jacobmartins.com/2016/06/06/practical-golang-getting-started-with-nats-and-related-patterns/)
+  - [Introducing NATS to Go Developers - 2017/04](https://medium.com/@shijuvar/introducing-nats-to-go-developers-3cfcb98c21d0)
+
+
 ### Projects
   - https://github.com/abrandoned/protobuf-nats - An rpc client and server library built using the protobuf gem and the NATS protocol.
+
+
+
+### People;
+  Brian Flannery:
+    - https://twitter.com/brianflannery
+    - https://www.apcera.com/leadership/brian-flannery
 
 
 ### Videos:
