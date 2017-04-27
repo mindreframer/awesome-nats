@@ -13,6 +13,7 @@
 
 ### Projects
   - https://github.com/abrandoned/protobuf-nats - An rpc client and server library built using the protobuf gem and the NATS protocol.
+  - https://github.com/simia-tech/netx - netx - Semantic addressing extention for go's net package
 
 
 
